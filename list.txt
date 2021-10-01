@@ -1,7 +1,3 @@
-Grocery list
-butter
-jam
-
 supplies
 pencils
 tape
